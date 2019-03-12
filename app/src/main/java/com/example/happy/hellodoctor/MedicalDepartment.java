@@ -21,7 +21,6 @@ public class MedicalDepartment extends AppCompatActivity {
         buttonDentalDp = (Button) findViewById(R.id.buttonDental);
         buttonBrainDp = (Button) findViewById(R.id.buttonBrain);
         buttonFemaleDp = (Button) findViewById(R.id.buttonFemale);
-
         buttonEyeDp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
