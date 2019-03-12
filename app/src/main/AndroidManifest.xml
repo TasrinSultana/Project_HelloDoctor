@@ -21,7 +21,8 @@
         <activity android:name=".EarDepartment" />
         <activity android:name=".BrainDepartment" />
         <activity android:name=".DentalDepartment" />
-        <activity android:name=".GynocologyDepartment"></activity>
+        <activity android:name=".GynocologyDepartment" />
+        <activity android:name=".SkinDepartment"></activity>
     </application>
 
 </manifest>
