@@ -16,6 +16,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".MedicalDepartment" />
+        <activity android:name=".EyeDepartment" />
+        <activity android:name=".EarDepartment" />
+        <activity android:name=".BrainDepartment" />
+        <activity android:name=".DentalDepartment" />
+        <activity android:name=".GynocologyDepartment" />
+        <activity android:name=".SkinDepartment"></activity>
     </application>
 
 </manifest>
