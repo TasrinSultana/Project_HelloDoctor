@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".MedicalDepartment" />
-        <activity android:name=".EyeDepartment"></activity>
+        <activity android:name=".EyeDepartment" />
+        <activity android:name=".EarDepartment"></activity>
     </application>
 
 </manifest>
