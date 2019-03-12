@@ -42,7 +42,14 @@
         tools:layout_editor_absoluteX="9dp"
         tools:layout_editor_absoluteY="20dp" />
 
-
+    <Button
+        android:id="@+id/Location"
+        android:layout_width="290dp"
+        android:layout_height="80dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="28dp"
+        android:text="Location" />
 
 
 </RelativeLayout>
